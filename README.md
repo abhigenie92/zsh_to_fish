@@ -3,7 +3,9 @@ How to make zsh like fish?
 
 
 1. Install oh-my-zsh
-```sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"```
+```
+sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+```
 
 2. Clone necessary plugins.
 ```
