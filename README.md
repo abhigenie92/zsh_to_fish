@@ -20,7 +20,7 @@ plugins = ( [plugins...] zsh-autosuggestions zsh-history-substring-search zsh-sy
 ```
 Note: make sure zsh-syntax-highlighting is the last one in the above list.
 
-4. Fix background theme issues (Not necessary depends on your theme.)
+4. Fix background theme issues(, not necessary depends on your theme.)
 Add the following line to your `~/.zshrc`.
 ```
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=white'
