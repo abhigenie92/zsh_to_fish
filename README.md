@@ -16,7 +16,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 3. Add plugins to `~/.zshrc` as
 ```
-plugins = ( [plugins...] zsh-autosuggestions zsh-history-substring-search zsh-syntax-highlighting)
+plugins = ( [plugins...] zsh-autosuggestions history-substring-search zsh-syntax-highlighting)
 ```
 Note: make sure zsh-syntax-highlighting is the last one in the above list.
 
